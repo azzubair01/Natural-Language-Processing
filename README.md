@@ -1,4 +1,4 @@
-# Natural Language Processings
+# Natural Language Processing
 This repository can be referred for Named Entity Recognition, Relation Extraction, and Coreference Resolution Tasks using StanfordCoreNLP.
 
 ## 1) Named Entity Recognition
