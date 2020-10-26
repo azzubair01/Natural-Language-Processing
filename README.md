@@ -1,5 +1,5 @@
 # Natural Language Processing
-This repository can be referred for Named Entity Recognition, Relation Extraction, and Coreference Resolution Tasks using StanfordCoreNLP. Note that the text used here is about Huawei which is taken from Wikipedia.
+Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. Note that the text used here is about Huawei which is taken from Wikipedia.
 
 ## 1) Named Entity Recognition
 - <b>Definition</b>: 
