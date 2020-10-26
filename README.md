@@ -1,5 +1,5 @@
 # Natural Language Processing
-This repository can be referred for Named Entity Recognition, Relation Extraction, and Coreference Resolution Tasks using StanfordCoreNLP.
+This repository can be referred for Named Entity Recognition, Relation Extraction, and Coreference Resolution Tasks using StanfordCoreNLP. Note that the text used here is about Huawei which is taken from Wikipedia.
 
 ## 1) Named Entity Recognition
 - <b>Definition</b>: 
