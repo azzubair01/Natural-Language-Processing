@@ -1,5 +1,5 @@
 # Natural Language Processing
-Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. Note that the text used here is about Huawei which is taken from Wikipedia.
+Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. In this repository, NLP tasks such as Named Entity Recognition, Relation Extraction, and Coreference Resolution are done using Jupyter Notebook.
 
 ## 1) Named Entity Recognition
 - <b>Definition</b>: 
@@ -25,11 +25,3 @@ Natural language processing (NLP) is a subfield of linguistics, computer science
  - <b>Examples</b>:
    - Cluster 1 = [Maybank, the bank, it] 
    - Cluster 2 = [Bill, He, his, him]
-
-## Note that this repository requires libraries such as:
-- tqdm
-- pandas
-- stanza
-- allennlp
-- stanfordnlp
-- allennlp_models
